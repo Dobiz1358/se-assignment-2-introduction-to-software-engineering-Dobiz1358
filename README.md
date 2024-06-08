@@ -111,7 +111,18 @@ Ethical Considerations in Software Engineering:
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
 
 ethical issues that software engineers face:
+-Algorithms can perpetuate societal biases if not carefully designed so ensuring fair and unbiased treatment for all users is crucial
+- Finding the right balance between functionality and user privacy due to software often collecting and using user data.
+- Engineers have the responsibility to write secure code and address vulnerabilities promptly.
+- Automation powered by software can lead to job loss.
+
+  
 how software engineers can ensure they adhere to ethical standards in their work :
+- Critically evaluate algorithms and code for potential biases and strive to mitigate them.
+- Designing software with user privacy in mind, collecting data only when necessary, and being transparent about data usage.
+- Prioritizing secure coding practices to minimize vulnerabilities and protect user data.
+- Speaking up about ethical considerations in AI development and automation and promoting responsible use of these technologies.
+
 
 
 
